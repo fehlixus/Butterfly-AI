@@ -1,5 +1,5 @@
 # Butterfly-AI 🦋
-A model for identifying and classifying butterfly species from images based on [VGG-16](https://www.mathworks.com/help/deeplearning/ref/vgg16.html#). After 5 epochs the model achieves an accuracy of around **70%**.
+A model based on based on [VGG-16](https://www.mathworks.com/help/deeplearning/ref/vgg16.html#) for identifying and classifying butterfly species from images. After 5 epochs the model achieves an accuracy of around **70%**.
 
 This project was intended to improve my understanding of AI in a fun way. 
 
