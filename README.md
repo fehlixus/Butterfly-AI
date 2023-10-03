@@ -1,5 +1,5 @@
 # Butterfly-AI 🦋
-AI model for identifying and classifying butterfly species from images. After 5 epochs the model achieves an accuracy of around **70%**.
+A model for identifying and classifying butterfly species from images. After 5 epochs the model achieves an accuracy of around **70%**.
 
 This project was intended to improve my understanding of AI in a fun way. 
 
@@ -13,4 +13,5 @@ Put the train/test folders and the .csv files of the [dataset](https://www.kaggl
 
 ### Disclaimer 
 I do **not** own the rights of the dataset. 
+
 [Dataset source](https://www.kaggle.com/datasets/meetnagadia/butterflies-dataset)
