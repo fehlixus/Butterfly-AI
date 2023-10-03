@@ -11,3 +11,5 @@ Make sure you have all the right python-modules by running:
 ```bash
 pip install -r requirements.txt
 ```
+
+Put the train/test folders and the .csv files of the [dataset](https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification?select=Training_set.csv) into the same directory as the *main.py* file. 
