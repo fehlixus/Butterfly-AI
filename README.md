@@ -7,9 +7,6 @@ This project was intended to improve my understanding of AI in a fun way. Please
 Make sure that you have all the right python-modules. You can check that using the **requirements.txt** file. Make sure tp put the train/test folders and the .csv files of the [dataset](https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification?select=Training_set.csv) into the same directory as the **main.py** file. 
 
 #### Disclaimer 
-Make sure that you have all the right python-modules. You can check that using the **requirements.txt** file. 
-
-### Disclaimer 
 I do **not** own the rights of the dataset. 
 
 [Dataset source](https://www.kaggle.com/datasets/meetnagadia/butterflies-dataset)
