@@ -4,12 +4,7 @@ A model based on [VGG-16](https://www.mathworks.com/help/deeplearning/ref/vgg16.
 This project was intended to improve my understanding of AI in a fun way. Please don't expect it to be perfect. 
 
 ## How to use
-Make sure that you have all the right python-modules by running:
-
-```bash
-pip install -r requirements.txt
-```
-Put the train/test folders and the .csv files of the [dataset](https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification?select=Training_set.csv) into the same directory as the **main.py** file. 
+Make sure that you have all the right python-modules. You can check that using the **requirements.txt** file. 
 
 ### Disclaimer 
 I do **not** own the rights of the dataset. 
